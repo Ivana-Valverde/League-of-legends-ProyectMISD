@@ -4,7 +4,7 @@ La presente página busca informar al jugador sobre las historias de los héroes
 
 # Usuarios
 Jugadores de League of Legends e iniciados en el juego. 
-# Funcionalidad
+
 
 ## [Enlace a nuestro Replit](https://replit.com/@MarisolSolisFlores/MobileOfLegends)
 
