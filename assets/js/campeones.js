@@ -1,4 +1,4 @@
-function obtenerDatos() {
+function obtenerDatos(){
   url = "../data/lol.json"
   fetch(url)
     .then(respuesta => respuesta.json())
