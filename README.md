@@ -1,10 +1,7 @@
-
-# Descripción
-La presente página busca informar al jugador sobre las historias de los héroes de League of Legends, el modo de ataque y daño de cada uno, todo eso con el fin de mejorar su experiencia en el juego. Debido que es sabido, por cada jugador, que la aplicación es mucho más entretenida si se conoce más sobre los héroes y las conexiones que hay entre ellos, ya sea de enemistad, amistad o consanguiniedad, por ejemplo. 
+# Proyecto-League-Of-Legends
+ Descripción: La presente página busca informar al jugador sobre las historias de los héroes de League of Legends, el modo de ataque y daño de cada uno, con el fin de mejorar la experiencia del usuario en el juego; además de las últimas noticias y actualizaciones en el juego. 
 
 # Usuarios
-Jugadores de League of Legends e iniciados en el juego. 
+Jugadores de League Of Legends e iniciados en el juego. 
 
-
-## [Enlace a nuestro Replit](https://replit.com/@MarisolSolisFlores/MobileOfLegends)
-
+## [Enlace a nuestro Replit](https://replit.com/@MarisolSolisFlores/LeagueOfLegends)
