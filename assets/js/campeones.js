@@ -55,7 +55,7 @@ function mostrarVentana(campeon) {
             <p><strong>Tags: </strong> ${tags}</p>
             <p><strong>Attack: </strong> ${info["attack"]}</p>
             <p><strong>Defense: </strong> ${info["defense"]}</p>
-            <p><strong>Magic: </trong> ${info["Magic"]}</p>
+            <p><strong>Magic: </trong> ${info["magic"]}</p>
             <p><strong>HP: </strong> ${stats["hp"]}</p>
             <p><strong>Hpper Level: </strong> ${stats["hpperlevel"]}</p> 
             <p><strong>Mp: </strong> ${stats["mp"]}</p>
