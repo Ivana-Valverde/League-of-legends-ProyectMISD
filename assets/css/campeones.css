@@ -1,0 +1,189 @@
+@font-face{
+  font-family:"Celtic Garamond the 2nd";
+  src: url(../fonts/Celtic Garamond the 2nd.TTF);
+}
+
+
+header {
+  background:black;
+  position: fixed;
+  top: 0;
+  left:0;
+  overflow: hidden; 
+  width: 1500px;
+  height: 90px;
+  border: rgb(0, 0, 0) solid 2px;
+  display:grid;
+  padding-bottom: 10px;
+}
+  
+header nav a {
+  background-color:black;
+  text-align: center;
+	display: inline-block;
+  flex-wrap: wrap;
+	color:#a50d0d;
+	text-decoration: none;
+	padding: 10px 44px;
+  align-items: inline;
+  margin-bottom:50px;
+}
+
+.container {
+	width:100%; /* Establecemos que el ancho sera del 90% */
+	max-width:1100px; /* Aqui le decimos que el ancho máximo sera de 1000px */
+	margin:auto; /* Centramos los elementos */
+	overflow:hidden; /* Eliminamos errores de float */
+    display: flex;
+    align-items: center;
+}
+.champ{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+.splash-img{
+  text-align:center;
+    width: 70%;
+    height: 250px;
+}
+ .card-campeon{
+    width: 300px;
+    background-color: rgba(240, 248, 255, 0.633);
+    border: 2px double black;
+    margin: 15px;
+    padding: 15px;
+    height: max-content;
+    font-family:"beaufort for lol"
+}
+.card-campeon:hover{
+    transform: scale(1.03);
+    box-shadow: 5px 5px 5px 5px rgb(0, 110, 255);
+    cursor: pointer;
+}
+.card-campeon img{
+    width: 100%;
+    height: 250px;
+
+}
+.data-principal{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+h3{
+    margin-top: 15px;
+    font-family: 'Letters';
+    text-align: center;
+    font-size: 3rem;
+    background-color: rgba(240, 248, 255, 0.853);
+}
+.ventana{
+    background-color: #ffea80;
+    width: 50%;
+    min-height: 350px;
+    
+    box-shadow: 5px 5px 5px 5px rgb(255, 255, 255) ;
+    position: absolute;
+    left: 35%;
+    top:15%;
+  font-family:"Celtic Garamond the 2nd";
+    flex-wrap: wrap;
+    justify-content: center;
+    display: none;
+  
+}
+.ventana-container{
+    margin: 10px;
+  
+    overflow: hidden;
+}
+
+.img-vent{
+    width: 100%;
+    height: auto;
+    margin-bottom: 0;
+}
+
+.ventana-champions{
+    padding: 10px;
+    text-align: center;
+    background-color: cadetblue;
+    font-family:"Celtic Garamond the 2nd";
+}
+
+h4{
+    font-family: 'Letters';
+    text-align: center;
+    font-size: 2rem;
+}
+
+.footer{
+  font-family:"Ruslan Display";
+  font-size:10px;
+  color:#086dd9;
+  text-align:center;
+  background:url(https://1.bp.blogspot.com/-sKcwwTO59fE/XXxcaJp4BVI/AAAAAAAAALo/IsDlNOFw3rcX5nfCGsBi9jW3TKEwAVvaQCEwYBhgL/s1600/giphy.gif);
+  background-size:cover;
+  margin-top:20px;
+  
+}
+
+.boton2{
+  border: 2px solid #02caa9;
+  height:80px;
+font-size:20px;
+  background-color: #ffffff;
+  text-decoration:none;
+  color:black;
+  font-family: "Celtic Garamond the 2nd";
+}
+
+body{
+  background:url(https://media1.tenor.com/images/5f6d96bbe8f55127ae4b32cc308415dc/tenor.gif?itemid=17510539);
+  background-size:contain;
+}
+
+.salida{
+  font-size:100px;
+  font-family:"Beaufort for lol";
+  color:white;
+  background-image: url(https://th.bing.com/th/id/R.62f2bb9d37313b21425ece2873bf7e74?rik=Wq%2f2YvEioOrs8A&riu=http%3a%2f%2fstatic1.squarespace.com%2fstatic%2f56e33409d210b8a4c7e973c9%2f56eff556f0bc3372369aded4%2f56eff59af0bc3372369aed23%2f1458566554675%2fwm-design-5.gif%3fformat%3doriginal&ehk=rOD3ag3hcjwUC%2f1w350UrB15alGGC3BGk%2fx02QpUf8w%3d&risl=&pid=ImgRaw&r=0);
+  width:850px;
+  height: 150px;
+  background-size:cover;
+  text-align:center;
+  margin-left: 20px;
+}
+
+.salida2{ 
+  font-size:20px;
+  color:#ffffff;
+background-color: rgba(0, 0, 0, 0.375); 
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width:750px;
+  text
+  height: 120px;
+}
+.ventana-info{
+  margin-left: 20px;
+  padding-right: 20px;
+}
+.filtros{
+  background-color:#00fffb;
+  padding: 20px 40px;
+  text-decoration:none;
+  color:black;
+  font-size:17.25px;
+  transition: all 0.5s;
+   letter-spacing: 0;
+   }
+.filtros:hover,
+.filtros:active {
+  letter-spacing: 5px;
+}
+.song{
+  float:right;
+  margin-right: 20px;
+}

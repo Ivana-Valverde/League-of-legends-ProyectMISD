@@ -1,0 +1,194 @@
+@font-face{
+  font-family:"Celtic Garamond the 2nd";
+  src: url(../fonts/Celtic Garamond the 2nd.TTF);
+}
+
+.lol11{
+  font-family:"Celtic Garamond the 2nd";
+  color:white; 
+}
+.lou{
+  font-size: 50px;
+  font-family:"Celtic Garamond the 2nd";
+  border: 2px solid #b594d6;
+  float: left;
+  -webkit-text-stroke: 1px #e9e4f1;
+  background-color: blueviolet;
+  border-radius: 10px;
+  padding: 5px;
+   }
+
+.lol{
+  text-align: left;
+}
+  
+
+header {
+  background:black;
+  position: fixed;
+  top: 0;
+  left:0;
+  overflow: hidden; 
+  width: 1500px;
+  height: 90px;
+  border: rgb(0, 0, 0) solid 2px;
+  display:grid;
+  padding-bottom: 10px;
+}
+  
+header nav a {
+  background-color:black;
+  text-align: center;
+	display: inline-block;
+  flex-wrap: wrap;
+	color: #a50d0d;
+	text-decoration: none;
+	padding: 20px 44px;
+  align-items: center;
+}
+
+
+.loloo{
+  background:url(https://th.bing.com/th/id/R.734b200b3a93b2cefe14a74b2d5030c1?rik=2PHPE9%2bdd3WTIw&riu=http%3a%2f%2fpa1.narvii.com%2f6495%2fc382afa4d3cc5e5054a2b24f9d85867a601879f6_hq.gif&ehk=AkZITgA4RfgYtyvDqV3VAmr9mk6k%2fjnOZbfPlbKSEHQ%3d&risl=&pid=ImgRaw&r=0);
+  background-size:cover;
+}
+
+.lol1{
+    background-image:url(https://i.pinimg.com/originals/4e/ab/22/4eab22e6505ddeef491fa34d072c9581.jpg);
+    border: 3px solid black;
+   font-size:20px;
+    margin-right: 150px;
+    margin-bottom: 80px;
+    margin-left: 80px;
+    color:#ffffff; 
+  background-size:cover;
+}
+.lol0{
+  font-family:"Ruslan Display";
+}
+
+.lol2{
+  background-image:url(https://i.pinimg.com/originals/d0/e2/4f/d0e24f9d51b60389f20ec011b2b1a250.jpg);
+  background-size:cover;
+color:white;
+    padding-top: 50px ;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+   font-family: "Celtic Garamond the 2nd";
+  font-size:20px;
+}
+.carta{
+      width: 300px;
+    background-color:rgba(26, 190, 255, 0.452);
+
+    margin: 15px;
+    padding: 15px;
+    height: max-content;
+  font-family: "Celtic Garamond the 2nd";
+  
+}
+
+.flex{
+  display:flex;
+}
+
+.lol22{
+    background-image:url(https://th.bing.com/th/id/R.5b47229c7c627de51d743dd6321e8009?rik=cIGZnTkZUMZfGg&pid=ImgRaw&r=0);
+    border: 3px solid black;
+   font-size:20px;
+    margin-right: 150px;
+    margin-bottom: 80px;
+    margin-left: 80px;
+    color:#ffffff; 
+  background-size:cover;
+
+ }
+
+.klo{
+float:right;
+margin-right:40px;
+border:3px solid black;
+margin-top: 100px;
+}
+
+.carta2{
+      width: 300px;
+    background-color:rgba(255, 139, 7, 0.637);
+    border: 2px double #000000;
+    margin: 15px;
+    padding: 15px;
+    height: max-content;
+  font-family: "Celtic Garamond the 2nd";
+  
+}
+.carta2:hover{
+    transform: scale(1.03);
+    box-shadow: 5px 5px 5px 5px rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.carta3{
+   width: 300px;
+    margin: 15px;
+    padding: 15px;
+    height: max-content;
+  font-family: "Celtic Garamond the 2nd";
+  background-color:rgba(221, 63, 235, 0.507);
+  color:black;
+    
+}
+
+.lol3{
+  background-image: url(https://th.bing.com/th/id/R.81cc69dee1e38d41ddb6dcd218d60017?rik=fomUTqLvj%2buHDg&pid=ImgRaw&r=0);
+  background-size:cover;
+}
+
+.oi{
+  font-family: "Celtic Garamond the 2nd";
+  color: white;
+  font-size:20px;
+}
+
+.lol4{
+      background-image:url(https://www.kotaku.com.au/wp-content/uploads/sites/3/2016/04/01/htiwfw5na9ueraxxfqnh.gif?quality=80&resize=720,405);
+    border: 3px solid black;
+   font-size:20px;
+    margin-right: 150px;
+    margin-bottom: 80px;
+    margin-left: 80px;
+    color:#ffffff; 
+  background-size:cover;
+
+}
+.carta5{
+    width: 300px;
+    background-color:rgba(255, 230, 3, 0.493);
+    margin: 15px;
+    padding: 15px;
+    height: max-content;
+    font-family: "Celtic Garamond the 2nd";
+}
+
+.footer{
+  font-family:"Ruslan Display";
+  font-size:10px;
+  color:#086dd9;
+  text-align:center;
+  background:url(https://1.bp.blogspot.com/-sKcwwTO59fE/XXxcaJp4BVI/AAAAAAAAALo/IsDlNOFw3rcX5nfCGsBi9jW3TKEwAVvaQCEwYBhgL/s1600/giphy.gif);
+  background-size:cover;
+}
+
+.boton2{
+  border: 2px solid #02caa9;
+  height:80px;
+font-size:20px;
+  background-color: #ffffff;
+  text-decoration:none;
+  color:black;
+  font-family: "Celtic Garamond the 2nd";
+}
+
+.plop{
+  margin-top:20px;
+}

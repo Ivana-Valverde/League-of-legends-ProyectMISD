@@ -1,0 +1,118 @@
+html{
+
+  background-size: cover;
+}
+
+body{
+  text-align: center;
+  padding: 10px;
+  font-family: "beaufort for lol";
+  font-size: 60px;
+}
+
+.section{
+  border: 9px double #ffffff;
+  background-image: url(http://pa1.narvii.com/6475/6f157723ae1fa0dbaf117ab0e099654c9eb8edb8_00.gif);
+  /*ackground-color: rgba(0, 170, 255, 0.37); */
+  font-size: 21px;
+  font-family: cursive;
+  color: white;
+  /**/
+  margin-left: 350px;
+  width: 550px;
+  height: 500px;
+  padding: 25px;
+  text-align: center;
+  }
+.lou{
+  font-size: 100px;
+  font-family: "BEAUFORT FOR LOL";
+  border: 2px solid #b594d6;
+  float: left;
+  -webkit-text-stroke: 1px #e9e4f1;
+  background-color: blueviolet;
+  border-radius: 10px;
+  padding: 5px;
+}
+.logolegends{
+  margin-right: 300px;
+}
+.lila{
+  float: right;
+  margin-right:;
+  border: 2px solid black;
+  position: absolute;
+}
+
+.boton{
+  background-image: url(https://img1.picmix.com/output/stamp/normal/4/4/5/9/279544_ab7b2.gif);
+  background-size: cover;
+  border: dotted 6px white;
+  padding: 8px;
+  font-family: cursive;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+.boton:hover{
+  background-image: url(https://i.pinimg.com/originals/bb/74/15/bb74159c45289ef990f8cba75519a4e2.gif);
+  background-size: cover;
+  border: white 5px dashed;
+  padding: 10px;
+  font-family: cursive;
+  color: white;
+  font-size: 35px;
+  text-align: center;
+}
+form .Nombre{
+  position: relative;
+  border-bottom: 2px solid #f69d04;
+  margin: 20px 0;
+}
+
+.Nombre input{
+  width: 50%;
+  padding: 0 5px;
+  height: 30px;
+  
+  border: none;
+  background: none;
+  outline: none;
+  
+}
+
+.Nombre label{
+position: absolute;
+  top: 10%;
+  left: 5px;
+  color: #bb8b07;
+  transform: translateY(-50%);
+  pointer-events: none;  
+  transition: .5s;
+}
+.Nombre span::before{
+  content: "";
+  position: absolute;
+  top: 60px;
+  left:0;
+  width:0%;
+  height: 2px;
+  background: #0d81fd;  
+}
+
+.Nombre input:focus ~ label,
+.Nombre input:focus ~ label{
+  top: -5px;
+  color: #007bff;
+}
+.Nombre input:focus ~ before,
+.Nombre input:focus ~ before{
+  width:50%;
+
+
+
+.klo{
+float:right;
+margin-right:40px;
+}

@@ -1,0 +1,200 @@
+h1{
+  font-family:"Ruslan Display";
+  color: #1d0085; 
+  text-align: center;
+  font-size: 60px;
+  /*-webkit-text-stroke: 1px #ffffff ;*/
+}
+
+body {
+font-family: cursive;
+margin: 0;
+padding: 60px 0 0 0;
+background: url(https://i.pinimg.com/originals/75/f0/2c/75f02c55d9a8e514930e62ab3bd0ad28.gif);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#page {
+    margin: 0px auto;
+    width: 100%;
+}
+ 
+header {
+  background:black;
+  position: fixed;
+  top: 0;
+  left:0;
+  overflow: hidden; 
+  width: 1500px;
+  height: 100px;
+  border: rgb(0, 0, 0) solid 2px;
+  display:grid;
+  padding-bottom: 10px;
+}
+  
+header nav a {
+  background-color:black;
+  text-align: center;
+	display: inline-block;
+  flex-wrap: wrap;
+	color: #fcfcfc;
+	text-decoration: none;
+	padding: 28px 60px;
+  align-items: center;
+}
+
+
+header nav a:hover{
+  font-family: cursive;
+  color: white;
+  background-image: url(https://images6.alphacoders.com/651/651136.jpg);
+  background-size: cover;
+  /*background-color: #686464;*/
+  text-decoration: none;
+}
+ 
+#content {
+    height: 100%;
+    overflow: auto;
+    padding: 0% 1% 0% 1%;
+    width: 98%;
+}
+
+.container{
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container div{
+    text-align: center;
+}
+
+.formulario{
+
+  background:  rgba(255, 255, 255, 0.623);
+  padding: 3px;
+
+
+}
+
+input[type="text"],
+input[type="password"]{
+    font-size: 18px;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    text-align: center;
+  color: white;
+}
+
+.input-container{
+    margin-bottom: 15px;
+    border: 1px solid white;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.icon{
+    min-width: 50px;
+    text-align: center;
+    color: #009dff;
+    font-size: 25px;
+}
+
+.button{
+    width: 50%;
+    color: white;
+    font-size: 20px;
+    background: rgb(12, 115, 233);
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: rgb(4, 23, 73) solid 1px;
+    cursor: pointer;
+}
+
+.button:hover{
+    /*background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/1400/9112b576009313.5c5ca8e8c45c3.jpg");*/
+    background: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/9112b576009313.5c5ca8e8c45c3.jpg);
+    background-size: cover;
+    border: rgb(4, 23, 73) solid 1px;
+    text-align: center;
+    cursor: pointer;
+    
+}  
+
+p{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
+p1{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
+p2{
+    font-family: cursive;
+    color: #9b5555;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
+.link{
+    /*text-decoration: none;*/
+    color: rgb(12, 115, 233);
+    font-weight: 600px;
+}
+
+.link:hover{
+    color: cadetblue
+}
+
+@media(min-width:768px)
+{
+    .formulario{
+        margin: auto;
+        width: 500px;
+        margin-top: 10px;
+        border-radius: 2%;
+    }
+}
+
+.footer{
+  font-family: "Ruslan Display";
+  font-size: 25px;
+  color: #008048;
+  text-align: center;
+  background: url(https://p4.wallpaperbetter.com/wallpaper/913/201/115/soraka-league-of-legends-soraka-league-of-legends-riot-games-support-league-of-legends-hd-wallpaper-preview.jpg);
+  background-size: cover;
+}
+
+.boton2{
+  border: 2px solid #02caa9;
+  height: 80px;
+font-size: 20px;
+  background-color: #ffffff;
+  text-decoration: none;
+  color: black;
+  font-family: "Celtic Garamond the 2nd";
+}
