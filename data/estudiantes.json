@@ -1,0 +1,67 @@
+{
+    "Curso": "Desarrollo Web",
+    "Programa": "+Chicas Tec",
+    "Grupo": "G6",
+    "Profesores":[  
+    {
+        "nombre": "Shirly",
+        "apellido": "Barzola",
+        "edad": 21,
+        "hobbie": "Escuchar musica",
+        "avatar" : "https://media.tenor.com/zE4ozkXHGWAAAAAC/sylveon.gif"
+
+    },
+    {
+        "nombre": "Salomon",
+        "apellido": "Castillejo",
+        "edad": 40,
+        "hobbie": "Jugar futbol",
+        "avatar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxxWVI6UBJJiO8G_5ouUkXVsxTkyJC5JgB1g&usqp=CAU"
+
+    }],
+    "Estudiantes" : [
+        {
+          "nombre": "Marisol",
+          "apellido": "Solis Flores",
+          "edad": 16,
+          "hobbie": "Escuchar musica",
+          "avatar": "https://mir-s3-cdn-cf.behance.net/projects/404/f76f8b133081129.Y3JvcCwyMDk1LDE2MzgsMzgzLDQ1MQ.jpg"   
+        },
+        {
+          "nombre": "Ivana",
+          "apellido": "Valverde",
+          "edad": 16,
+          "hobbie": "Leer",
+          "avatar": "https://i.pinimg.com/736x/41/dc/75/41dc7515c678c626998f2c07b337488d.jpg"
+        },
+        {
+          "nombre": "Ruth",
+          "apellido": "LLaja",
+          "edad": 18,
+          "hobbie": "Bailar",
+          "avatar": "https://pbs.twimg.com/profile_images/1242418329324675073/KNsryamj_400x400.jpg"
+        },
+        {
+            "nombre": "Silvia",
+            "apellido": "Melgarejo",
+            "edad": 25,
+            "hobbie": "jugar voley",
+            "avatar": "https://i.pinimg.com/originals/e8/47/f1/e847f1f479f326eb906882053d8743d6.jpg"
+          },
+          {
+            "nombre": "Dalia",
+            "apellido": "Santos",
+            "edad": 16,
+            "hobbie": "Escuchar musica",
+            "avatar": "https://img.freepik.com/vector-premium/programadora-femenina-mujer-escribiendo-codigo-administrador-contenido-chica-joven-que-trabaja-ilustracion-vector-computadora-portatil-programador-software-mujer-lenguaje-informatico-escrito-autonomo_80590-11194.jpg?"
+          },
+          {
+            "nombre": "Camila",
+          "apellido": "Montalvo",
+          "edad": 15,
+          "hobbie": "Dibujar",
+          "avatar": "https://i.pinimg.com/originals/16/2a/8c/162a8cf5cceea6f0bfc4a988013ef833.jpg"
+          }
+
+    ]
+}
